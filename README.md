@@ -6,4 +6,5 @@ This will serve as links to writeups about solving the challenges on ROOTCON's C
 - ROOTCON 13 / 2019's CTF Writeups for Web Category: https://medium.com/bugbountywriteup/rootcon-2019s-ctf-writeups-for-web-category-753abe95fe15
 - ROOTCON 12 CTF CRYFORBIN 7 and CRYFORBIN 8 Writeup: https://ethicalhackers.club/rootcon-12-ctf-cryforbin-7-and-cryforbin-8-write-up/
 - Rootcon CTF 2019 | Kahl Dereta Write Up: https://ctulhu.me/2019/09/29/rootcon-ctf-2019-kahl-dereta-write-up/
-- [hsb]Team Harambae Presents: Rootcon 12 CTF Update + CryForBin 2,3,4,6,7,8 Write-Up: https://medium.com/hackstreetboys/hsb-team-harambae-presents-rootcon-12-ctf-update-cryforbin-2-3-4-6-7-8-write-up-c2f8917c8aab?
+- [hsb]Team Harambae Presents: Rootcon 12 CTF Update + CryForBin 2,3,4,6,7,8 Write-Up: https://medium.com/hackstreetboys/hsb-team-harambae-presents-rootcon-12-ctf-update-cryforbin-2-3-4-6-7-8-write-up-c2f8917c8aab
+- Rootcon 2017 CTF — BinForCry 350 Write-up/Walkthrough (Part 2 of x): https://medium.com/@monliclican/rootcon-2017-ctf-binforcry-350-write-up-walkthrough-part-2-of-x-5731c91c2266
