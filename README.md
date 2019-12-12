@@ -13,5 +13,6 @@ This will serve as links to writeups about solving the challenges on ROOTCON's C
 - ROOTCON 2017 CTF — BinForCry 100 Write-up/Walkthrough (Part 3 of x): https://medium.com/@monliclican/rootcon-2017-ctf-binforcry-100-write-up-walkthrough-part-3-of-x-9bde70e09e9
 - ROOTCON 11 CTF BinForCry 350 Write-Up/Solution: https://www.youtube.com/watch?v=cYzJf12VrKA
 - ROOTCON 2019 CTF | Forensics 100 and 200 Write-up: https://medium.com/@isaiah.puzon/rootcon-2019-ctf-forensics-100-and-200-writeup-74ca4a1a17c9
+- ROOTCON CTF 2019 | Fresh From the Ooooooven Write Up: https://medium.com/@pjbautista/rootcon-ctf-2019-fresh-from-the-ooooooven-write-up-db2da715bafd
 - [to be updated]
 
