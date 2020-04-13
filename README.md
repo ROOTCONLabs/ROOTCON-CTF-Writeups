@@ -40,4 +40,12 @@ This will serve as links to write-ups about solving the challenges on ROOTCON's 
 | Forensics 100 and 200 Write-up | Isaiah Puzon | DiKoPoAlam | https://medium.com/@isaiah.puzon/rootcon-2019-ctf-forensics-100-and-200-writeup-74ca4a1a17c9
 | Fresh From the Ooooooven Write Up | PJ Bautista | Cryptors | https://medium.com/@pjbautista/rootcon-ctf-2019-fresh-from-the-ooooooven-write-up-db2da715bafd |
 
+**ROOTCON Easter Egg Hunt CTF Challenge (2020)**
+
+| Title | Author | Team | Link |
+| --- | --- | --- | --- |
+| ROOTCON Easter Egg Hunt 2020 | Felix Angelo Mendoza | hackstreetboys | https://seymour.hackstreetboys.ph/chals/ctf/2020-ROOTCONEasterEggHunt.html |
+| ROOTCON Easter Egg Hunt 2020 | Ameer Pornillos | hackstreetboys | https://ethicalhackers.club/rootcon-2020-easter-egg-hunt-flags/ |
+
+
 [to be updated]
