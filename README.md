@@ -47,7 +47,7 @@ This will serve as links to write-ups about solving the challenges on ROOTCON's 
 | ROOTCON Easter Egg Hunt 2020 | Felix Angelo Mendoza | hackstreetboys | https://seymour.hackstreetboys.ph/chals/ctf/2020-ROOTCONEasterEggHunt.html |
 | ROOTCON Easter Egg Hunt 2020 | Ameer Pornillos | hackstreetboys | https://ethicalhackers.club/rootcon-2020-easter-egg-hunt-flags/ |
 | ROOTCON Easter Egg Hunt 2020: Space Challenge | AJ Dumanhug | hackstreetboys | https://medium.com/@ajdumanhug/rootcon-easter-egg-hunt-2020-space-challenge-a6ec26ef480c |
-| ROOTCON Easter Egg Hunt 2020: Space Challenge | Ariz Soriano | hackstreetboys | https://ar33zy.hackstreetboys.ph/rootcon/ctf/rootcon-easter-egg-2020/ |
+| ROOTCON Easter Egg Hunt 2020 | Ariz Soriano | hackstreetboys | https://ar33zy.hackstreetboys.ph/rootcon/ctf/rootcon-easter-egg-2020/ |
 
 
 [to be updated]
