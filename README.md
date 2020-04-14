@@ -48,6 +48,7 @@ This will serve as links to write-ups about solving the challenges on ROOTCON's 
 | ROOTCON Easter Egg Hunt 2020 | Ameer Pornillos | hackstreetboys | https://ethicalhackers.club/rootcon-2020-easter-egg-hunt-flags/ |
 | ROOTCON Easter Egg Hunt 2020: Space Challenge | AJ Dumanhug | hackstreetboys | https://medium.com/@ajdumanhug/rootcon-easter-egg-hunt-2020-space-challenge-a6ec26ef480c |
 | ROOTCON Easter Egg Hunt 2020 | Ariz Soriano | hackstreetboys | https://ar33zy.hackstreetboys.ph/rootcon/ctf/rootcon-easter-egg-2020/ |
+| ROOTCON Easter Egg Hunt 2020: Power Challenge | Joseph Hermocilla | - | https://github.com/CLKTCK/ctf-writeups/tree/master/rc14-egg/power | 
 
 
 [to be updated]
