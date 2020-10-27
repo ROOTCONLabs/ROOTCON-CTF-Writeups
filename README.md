@@ -54,6 +54,7 @@ This will serve as links to write-ups about solving the challenges on ROOTCON's 
 
 **ROOTCON Recovery Mode (2020)**
 | Title | Author | Team | Link |
+| --- | --- | --- | --- |
 | ROOTCON Recovery Mode 2020 | Al Francis | --- | https://laet4x.medium.com/rootcon-recovery-mode-ctf-forensics-warm-up-660254c8d176 |
 | ROOTCON Recovery Mode 2020 | ar33zy | Facbois | https://medium.com/@ar33zy/for-200-rootcon-14-ctf-finals-writeup-7bce60791dcd |
 
