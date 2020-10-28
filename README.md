@@ -50,13 +50,13 @@ This will serve as links to write-ups about solving the challenges on ROOTCON's 
 | ROOTCON Easter Egg Hunt 2020 | Ariz Soriano | hackstreetboys | https://ar33zy.hackstreetboys.ph/rootcon/ctf/rootcon-easter-egg-2020/ |
 | ROOTCON Easter Egg Hunt 2020: Power Challenge | Joseph Hermocilla | - | https://github.com/CLKTCK/ctf-writeups/tree/master/rc14-egg/power | 
 
-[to be updated]
-
 **ROOTCON Recovery Mode (2020)**
 | Title | Author | Team | Link |
 | --- | --- | --- | --- |
 | ROOTCON Recovery Mode 2020 | Al Francis | --- | https://laet4x.medium.com/rootcon-recovery-mode-ctf-forensics-warm-up-660254c8d176 |
 | ROOTCON Recovery Mode 2020 | ar33zy | Facbois | https://medium.com/@ar33zy/for-200-rootcon-14-ctf-finals-writeup-7bce60791dcd |
+| ROOTCON Recovery Mode 2020 | Alexis Lingad | Hackuna Beta | https://medium.com/@johnlingadx/rootcon14-challenge-sour-wine-web-challenge-write-up-b7e82e21c50b |
+
 
 [to be updated]
 
