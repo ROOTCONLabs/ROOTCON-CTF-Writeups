@@ -60,7 +60,7 @@ This will serve as links to write-ups about solving the challenges on ROOTCON's 
 **ROOTCON15 (2021)**
 | Title | Author | Team | Link |
 | --- | --- | --- | --- |
-| Web (200 Points) | laet4x | Squid Gamers | https://laet4x.medium.com/rootcon-recovery-mode-ctf-forensics-warm-up-660254c8d176 |
+| Web (200 Points) | laet4x | Squid Gamers | https://laet4x.medium.com/rootcon15-ctf-web-200-91a9eee0b62f |
 
 
 
