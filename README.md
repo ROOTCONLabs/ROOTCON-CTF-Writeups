@@ -57,6 +57,12 @@ This will serve as links to write-ups about solving the challenges on ROOTCON's 
 | ROOTCON Recovery Mode 2020 | ar33zy | Facbois | https://medium.com/@ar33zy/for-200-rootcon-14-ctf-finals-writeup-7bce60791dcd |
 | ROOTCON Recovery Mode 2020 | Alexis Lingad | Hackuna Beta | https://medium.com/@johnlingadx/rootcon14-challenge-sour-wine-web-challenge-write-up-b7e82e21c50b |
 
+**ROOTCON15 (2021)**
+| Title | Author | Team | Link |
+| --- | --- | --- | --- |
+| Web (200 Points) | laet4x | Squid Gamers | https://laet4x.medium.com/rootcon15-ctf-web-200-91a9eee0b62f |
+
+
 
 [to be updated]
 
