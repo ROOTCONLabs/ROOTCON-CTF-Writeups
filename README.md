@@ -62,6 +62,7 @@ This will serve as links to write-ups about solving the challenges on ROOTCON's 
 | --- | --- | --- | --- |
 | Web (200 Points) | laet4x | Squid Gamers | https://laet4x.medium.com/rootcon15-ctf-web-200-91a9eee0b62f |
 | BinForCry | Shav Manalo | Queen Anne’s Revenge | https://medium.com/@r3dact0r/binforcry-rootcon-15-ctf-safe-mode-writeup-1d9234ae771f |
+| ROOTCON 15 Capture The Flag | blackb3ard | Queen Anne’s Revenge | https://blackbeard666.github.io/pwn_exhibit/content/2021_CTF/RC15/rootcon15ctf.md |
 
 
 
