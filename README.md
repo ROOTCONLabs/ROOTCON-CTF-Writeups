@@ -61,6 +61,7 @@ This will serve as links to write-ups about solving the challenges on ROOTCON's 
 | Title | Author | Team | Link |
 | --- | --- | --- | --- |
 | Web (200 Points) | laet4x | Squid Gamers | https://laet4x.medium.com/rootcon15-ctf-web-200-91a9eee0b62f |
+| BinForCry | Shav Manalo | Queen Anne’s Revenge | https://medium.com/@r3dact0r/binforcry-rootcon-15-ctf-safe-mode-writeup-1d9234ae771f |
 
 
 
