@@ -58,7 +58,7 @@ If you want to publish your write-ups send us a ping at Discord (https://rootc.o
 | BinForCry Write-up/Walkthrough (Part 1 of x) | Mon Liclican | hackstreetboy's Harambae | https://medium.com/@monliclican/rootcon-ctf-2017-update-binforcry-write-up-walkthrough-part-1-of-x-c015d60e2583 |
 | BinForCry 350 Write-up/Walkthrough (Part 2 of x) | Mon Liclican | hackstreetboys' Harambae | https://medium.com/@monliclican/rootcon-2017-ctf-binforcry-350-write-up-walkthrough-part-2-of-x-5731c91c2266 |
 | BinForCry 100 Write-up/Walkthrough (Part 3 of x) | Mon Liclican | hackstreetboys' Harambae | https://medium.com/@monliclican/rootcon-2017-ctf-binforcry-100-write-up-walkthrough-part-3-of-x-9bde70e09e9 |
-| BinForCry 350 Write-Up/Solution | Ammer Pornillios | hackstreetboys' Ethical Hackers Club | https://www.youtube.com/watch?v=cYzJf12VrKA |
+| BinForCry 350 Write-Up/Solution | Ameer Pornillios | hackstreetboys' Ethical Hackers Club | https://www.youtube.com/watch?v=cYzJf12VrKA |
 
 **ROOTCON 6 (2012)**
 
