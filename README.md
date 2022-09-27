@@ -6,7 +6,7 @@ If you want to publish your write-ups send us a ping at Discord (https://rootc.o
 **ROOTCON16 Pre-Qualifiers (2022)**
 | Title | Author | Team | Link |
 | --- | --- | --- | --- |
-| Easy  | laet4x | HackingKaNalang | https://ctf.laet4x.com/ctf-2022/rootcon-16-pre-qualifier |
+| ROOTCON 16 CTF Pre-Qualifier  | laet4x | HackingKaNalang | https://ctf.laet4x.com/ctf-2022/rootcon-16-pre-qualifier |
 
 **ROOTCON15 (2021)**
 | Title | Author | Team | Link |
