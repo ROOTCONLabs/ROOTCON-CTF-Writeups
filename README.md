@@ -3,6 +3,11 @@ This will serve as links to write-ups about solving the challenges on ROOTCON's 
 
 If you want to publish your write-ups send us a ping at Discord (https://rootc.onl/discord) or fork the repo, make changes and do a pull request.
 
+**ROOTCON16 Pre-Qualifiers (2022)**
+| Title | Author | Team | Link |
+| --- | --- | --- | --- |
+| Easy  | laet4x | HackingKaNalang | https://ctf.laet4x.com/ctf-2022/rootcon-16-pre-qualifier |
+
 **ROOTCON15 (2021)**
 | Title | Author | Team | Link |
 | --- | --- | --- | --- |
