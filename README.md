@@ -3,6 +3,11 @@ This will serve as links to write-ups about solving the challenges on ROOTCON's 
 
 If you want to publish your write-ups send us a ping at Discord (https://rootc.onl/discord) or fork the repo, make changes and do a pull request.
 
+**ROOTCON16 Finals (2022)**
+| Title | Author | Team | Link |
+| --- | --- | --- | --- |
+| ROOTCON 16 CTF WEB WRITEUP | AJ Dumanhug | PwnDeManila | https://atom.hackstreetboys.ph/rootcon-16-web-ctf-writeup/ |
+
 **ROOTCON16 Pre-Qualifiers (2022)**
 | Title | Author | Team | Link |
 | --- | --- | --- | --- |
