@@ -6,7 +6,9 @@ If you want to publish your write-ups send us a ping at Discord (https://rootc.o
 **ROOTCON16 Finals (2022)**
 | Title | Author | Team | Link |
 | --- | --- | --- | --- |
-| ROOTCON 16 CTF WEB WRITEUP | AJ Dumanhug | PwnDeManila | https://atom.hackstreetboys.ph/rootcon-16-web-ctf-writeup/ |
+| ROOTCON 16 CTF Web Writeup | AJ Dumanhug | PwnDeManila | https://atom.hackstreetboys.ph/rootcon-16-web-ctf-writeup/ |
+| ROOTCON 16 CTF Forensics 100 Writeup | Gio Ascan | CountToTen | https://atom.hackstreetboys.ph/rootcon-16-web-ctf-writeup/ |
+
 
 **ROOTCON16 Pre-Qualifiers (2022)**
 | Title | Author | Team | Link |
