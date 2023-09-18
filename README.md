@@ -3,19 +3,24 @@ This will serve as links to write-ups about solving the challenges on ROOTCON's 
 
 If you want to publish your write-ups send us a ping at Discord (https://rootc.onl/discord) or fork the repo, make changes and do a pull request.
 
-**ROOTCON16 Finals (2022)**
+**ROOTCON 17 Qualifiers (2023)**
+| Title | Author | Team | Link |
+| --- | --- | --- | --- |
+| Writeups for Rootcon 17 Qualifiers | FriedTempura | Tempura Templars | https://altelus1.github.io/writeups/ctf/rootcon17quals/ |
+
+**ROOTCON 16 Finals (2022)**
 | Title | Author | Team | Link |
 | --- | --- | --- | --- |
 | ROOTCON 16 CTF Web Writeup | AJ Dumanhug | PwnDeManila | https://atom.hackstreetboys.ph/rootcon-16-web-ctf-writeup/ |
 | ROOTCON 16 CTF Forensics 100 Writeup | Gio Ascan | CountToTen | https://medium.com/@gioascan/rootcon16-for100-writeup-703fec83dec8 |
 
 
-**ROOTCON16 Pre-Qualifiers (2022)**
+**ROOTCON 16 Pre-Qualifiers (2022)**
 | Title | Author | Team | Link |
 | --- | --- | --- | --- |
 | ROOTCON 16 CTF Pre-Qualifier - Easy | laet4x | HackingKaNalang | https://ctf.laet4x.com/ctf-2022/rootcon-16-pre-qualifier |
 
-**ROOTCON15 (2021)**
+**ROOTCON 15 (2021)**
 | Title | Author | Team | Link |
 | --- | --- | --- | --- |
 | Web (200 Points) | laet4x | Squid Gamers | https://laet4x.medium.com/rootcon15-ctf-web-200-91a9eee0b62f |
