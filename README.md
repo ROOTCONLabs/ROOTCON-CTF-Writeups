@@ -3,6 +3,11 @@ This will serve as links to write-ups about solving the challenges on ROOTCON's 
 
 If you want to publish your write-ups send us a ping at Discord (https://rootc.onl/discord) or fork the repo, make changes and do a pull request.
 
+**ROOTCON 18 Pre Qualifiers (2024)**
+| Title | Author | Team | Link |
+| --- | --- | --- | --- |
+| Writeups for Rootcon 18 Pre Qualifiers | Mknukn | friedchickengang | https://blog.mknukn-dev.xyz/ctfs/rootcon-18-pre-qualifiers |
+
 **ROOTCON 17 Qualifiers (2023)**
 | Title | Author | Team | Link |
 | --- | --- | --- | --- |
