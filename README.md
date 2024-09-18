@@ -7,6 +7,7 @@ If you want to publish your write-ups send us a ping at Discord (https://rootc.o
 | Title | Author | Team | Link |
 | --- | --- | --- | --- |
 | Writeups for Rootcon 18 Pre Qualifiers | Mknukn | friedchickengang | https://blog.mknukn-dev.xyz/ctfs/rootcon-18-pre-qualifiers |
+| Writeups for Rootcon 18 Pre Qualifiers | zw1tt3r1on | NoBruteforceIntended | https://zw1tt3r1on.github.io/ctf/2024/09/17/rootcon18-ctf-prequals.html |
 
 **ROOTCON 17 Qualifiers (2023)**
 | Title | Author | Team | Link |
