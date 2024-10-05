@@ -7,6 +7,7 @@ If you want to publish your write-ups send us a ping at Discord (https://rootc.o
 | Title | Author | Team | Link |
 | --- | --- | --- | --- |
 | Writeups for Rootcon 18 Finals | FriedTempura | Tempura Tenders | https://altelus1.github.io/writeups/ctf/rootcon18finals/ | 
+| RootCon18 CTF Finals: RollA5d6 | scr1++y | Tempura Tenders | https://scr1ttyy.github.io/Writeups/Rootcon18-CTF/BinForCry/RollA5d6/RollA5d6 | 
 
 **ROOTCON 18 Pre Qualifiers (2024)**
 | Title | Author | Team | Link |
