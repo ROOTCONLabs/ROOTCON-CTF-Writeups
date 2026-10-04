@@ -3,6 +3,11 @@ This will serve as links to write-ups about solving the challenges on ROOTCON's 
 
 If you want to publish your write-ups send us a ping at Discord (https://rootc.onl/discord) or fork the repo, make changes and do a pull request.
 
+**ROOTCON 20 CHV CTF (2026)**
+| Title | Author | Team | Link |
+| --- | --- | --- | --- |
+| Phantom Throttle | Jerold (challenge creator) | CHVPH | https://github.com/ROOTCONLabs/carhacking/tree/master/ctf/chvctf20/ramn | 
+
 **ROOTCON 18 Finals (2024)**
 | Title | Author | Team | Link |
 | --- | --- | --- | --- |
